@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Accepting FIAT during the ICO	</title>
+	<atom:link href="https://applicature.com/blog/token-offerings/accepting-fiat-ico/feed/" rel="self" type="application/rss+xml" />
+	<link>https://applicature.com/blog/token-offerings/accepting-fiat-ico</link>
+	<description>Blockchain / Smart Contracts / Decentralized Apps</description>
+	<lastBuildDate>Thu, 01 Aug 2019 12:56:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		By: RobertKeddie		</title>
+		<link>https://applicature.com/blog/token-offerings/accepting-fiat-ico/#comment-217</link>
+
+		<dc:creator><![CDATA[RobertKeddie]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2018 05:54:35 +0000</pubDate>
+		<guid isPermaLink="false">https://applicature.com/?p=380#comment-217</guid>
+
+					<description><![CDATA[Are you considering chargebacks ?  Is this why wires are the best way?]]></description>
+			<content:encoded><![CDATA[<p>Are you considering chargebacks ?  Is this why wires are the best way?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Adam Olszewski		</title>
+		<link>https://applicature.com/blog/token-offerings/accepting-fiat-ico/#comment-216</link>
+
+		<dc:creator><![CDATA[Adam Olszewski]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2018 23:39:59 +0000</pubDate>
+		<guid isPermaLink="false">https://applicature.com/?p=380#comment-216</guid>
+
+					<description><![CDATA[How I can fiat erc20 to usd]]></description>
+			<content:encoded><![CDATA[<p>How I can fiat erc20 to usd</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

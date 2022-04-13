@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ethereum Plasma Explained	</title>
+	<atom:link href="https://applicature.com/blog/blockchain-technology/plasma-release/feed/" rel="self" type="application/rss+xml" />
+	<link>https://applicature.com/blog/blockchain-technology/plasma-release</link>
+	<description>Blockchain / Smart Contracts / Decentralized Apps</description>
+	<lastBuildDate>Tue, 11 Jan 2022 20:50:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		By: Pravin Raundal		</title>
+		<link>https://applicature.com/blog/blockchain-technology/plasma-release/#comment-298</link>
+
+		<dc:creator><![CDATA[Pravin Raundal]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2019 11:57:56 +0000</pubDate>
+		<guid isPermaLink="false">https://applicature.com/?p=2549#comment-298</guid>
+
+					<description><![CDATA[Nice Article. We also developed a Blockchain Based Coffee Supply Chain
+Implementation of coffee supply chain using ethereum smart contract addressing the issue of storing critical data necessary at different stages of supply chain and making it verifiable by all stakeholders in supply chain.]]></description>
+			<content:encoded><![CDATA[<p>Nice Article. We also developed a Blockchain Based Coffee Supply Chain<br />
+Implementation of coffee supply chain using ethereum smart contract addressing the issue of storing critical data necessary at different stages of supply chain and making it verifiable by all stakeholders in supply chain.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Yellow Paper Released: Event Driven Approach and Blockchain in Logistics	</title>
+	<atom:link href="https://applicature.com/blog/enterprise-blockchain/yellow-paper-released-event-driven-approach-and-blockchain-in-logistics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://applicature.com/blog/enterprise-blockchain/yellow-paper-released-event-driven-approach-and-blockchain-in-logistics</link>
+	<description>Blockchain / Smart Contracts / Decentralized Apps</description>
+	<lastBuildDate>Wed, 18 Sep 2019 15:05:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		By: John Doe		</title>
+		<link>https://applicature.com/blog/enterprise-blockchain/yellow-paper-released-event-driven-approach-and-blockchain-in-logistics/#comment-209</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 20:43:13 +0000</pubDate>
+		<guid isPermaLink="false">https://applicature.com/?p=125#comment-209</guid>
+
+					<description><![CDATA[This is really great!) Awesome work you may be proud of!]]></description>
+			<content:encoded><![CDATA[<p>This is really great!) Awesome work you may be proud of!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

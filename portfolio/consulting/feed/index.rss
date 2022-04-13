@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Consulting &#8211; Applicature</title>
+	<atom:link href="https://applicature.com/portfolio/consulting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://applicature.com</link>
+	<description>Blockchain / Smart Contracts / Decentralized Apps</description>
+	<lastBuildDate>Wed, 05 Jan 2022 12:03:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://applicature.com/wp-content/uploads/2019/08/favicon2-100x100.png</url>
+	<title>Consulting &#8211; Applicature</title>
+	<link>https://applicature.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Consulting Services to Launch the Company and Token</title>
+		<link>https://applicature.com/portfolio/consulting-services-to-launch-the-company-and-token</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2022 11:50:34 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio&#038;p=173794</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Conceptual Blockchain Design, Infrastructure Coaching</title>
+		<link>https://applicature.com/portfolio/blockchain-design-infrastructure-coaching</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 22:08:37 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4875</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Business and Technical Concept Design</title>
+		<link>https://applicature.com/portfolio/business-technical-concept-design-2</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 22:04:18 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4877</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Blockchain Implementation</title>
+		<link>https://applicature.com/portfolio/blockchain-implementation</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 22:01:38 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4879</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Blockchain Concept Advisory</title>
+		<link>https://applicature.com/portfolio/blockchain-concept-advisory</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 19:24:01 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4882</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Business Concept and White Paper Development</title>
+		<link>https://applicature.com/portfolio/business-concept-white-paper</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 18:48:44 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4895</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>White Paper Consulting</title>
+		<link>https://applicature.com/portfolio/white-paper-consulting-for-crowdwiz</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 18:38:28 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4897</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

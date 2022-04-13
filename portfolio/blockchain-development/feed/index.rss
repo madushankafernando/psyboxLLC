@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blockchain Development &#8211; Applicature</title>
+	<atom:link href="https://applicature.com/portfolio/blockchain-development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://applicature.com</link>
+	<description>Blockchain / Smart Contracts / Decentralized Apps</description>
+	<lastBuildDate>Sat, 17 Aug 2019 07:26:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://applicature.com/wp-content/uploads/2019/08/favicon2-100x100.png</url>
+	<title>Blockchain Development &#8211; Applicature</title>
+	<link>https://applicature.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Technical Concept, implementation of ERC721 tokens for Gaming Business Case</title>
+		<link>https://applicature.com/portfolio/implementation-erc721-for-gaming</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 22:10:52 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4874</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ICO Cabinet (Contribution + KYC Dashboard)</title>
+		<link>https://applicature.com/portfolio/ico-cabinet-contribution-kyc-dashboard</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 21:56:23 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4880</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ethereum Fork Implementation and Customization</title>
+		<link>https://applicature.com/portfolio/ethereum-fork-customization</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 19:16:08 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4883</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Smart Contracts Suite for ICO</title>
+		<link>https://applicature.com/portfolio/smart-contracts-suite-for-ico</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 19:12:14 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4884</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ERC20 + Tokensale Smart Contracts Design</title>
+		<link>https://applicature.com/portfolio/erc20-tokensale-design-2</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 18:50:18 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4893</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin-fork based Blockchain Network for VR and AR Marketplace</title>
+		<link>https://applicature.com/portfolio/bitcoin-fork-based-blockchain</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 18:45:52 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4896</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Family of ERC20+ERC223 Smart Contracts with Auto Mining Capacity</title>
+		<link>https://applicature.com/portfolio/family-of-erc20-erc223</link>
+		
+		<dc:creator><![CDATA[Ivan Kobzar]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 18:31:27 +0000</pubDate>
+				<guid isPermaLink="false">https://applicature.com/?post_type=portfolio_page&#038;p=4899</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
